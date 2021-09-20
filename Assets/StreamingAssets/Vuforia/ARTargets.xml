@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="ARElephant" size="0.100000 0.100414" />
+    <ImageTarget name="AROwl" size="0.100000 0.108028" />
+    <ImageTarget name="ARFox" size="0.100000 0.114180" />
+    <ImageTarget name="ARDeer" size="0.100000 0.092759" />
+    <ImageTarget name="AR-OlBeautiful-02-min" size="0.100000 0.100000" />
+    <ImageTarget name="AR-OlBeautiful-min" size="0.100000 0.100000" />
+    <ImageTarget name="20210405_145402" size="0.100000 0.100486" />
+    <ImageTarget name="20210405_140901" size="0.100000 0.100756" />
+  </Tracking>
+</QCARConfig>
